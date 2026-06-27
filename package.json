@@ -27,6 +27,7 @@
     "zustand": "^4.4.7"
   },
   "devDependencies": {
+    "@capacitor/assets": "^3.0.5",
     "@capacitor/cli": "^6.0.0",
     "@types/qrcode": "^1.5.5",
     "@types/react": "^18.2.45",
