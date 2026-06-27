@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">e-dit</string>
+    <string name="title_activity_main">e-dit</string>
+    <string name="package_name">com.edit.app</string>
+    <string name="custom_url_scheme">com.edit.app</string>
+</resources>
